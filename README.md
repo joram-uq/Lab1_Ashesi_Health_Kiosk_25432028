@@ -1,2 +1,2 @@
 # Lab1_Ashesi_Health_Kiosk_25432028
-Second lab activity 
+Name : Joram Hanson  ID:25432028  Lab Number: 2
